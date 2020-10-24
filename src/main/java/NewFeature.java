@@ -3,5 +3,7 @@ public class NewFeature {
         System.out.println("New feature in feature branc ");
         System.out.println("additional branch for feature  ");
         // new feature will be here
+        for (;;){
+             }
     }
 }
